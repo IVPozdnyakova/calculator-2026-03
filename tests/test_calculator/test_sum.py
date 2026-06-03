@@ -1,3 +1,6 @@
+"""
+Test sum
+"""
 from calculator.sum import sum
 
 
@@ -6,4 +9,7 @@ def test_sum():
 
 
 def test_sum_minus():
+    """
+    Тест минуса
+    """
     assert sum(-2, -3) == -5
