@@ -2,4 +2,4 @@
 
 def sum(a, b):
     """function for summation"""
-    return a + b + 2
+    return a + b
