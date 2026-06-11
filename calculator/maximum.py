@@ -2,4 +2,4 @@
 
 def max(a, b):
     """function for maximum"""
-    return max(a, b)
+    return a if a > b else b
