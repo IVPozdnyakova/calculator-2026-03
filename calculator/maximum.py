@@ -1,5 +1,5 @@
-"""sum"""
+"""maximum"""
 
-def sum(a, b):
-    """function for summation"""
-    return a + b
+def max(a, b):
+    """function for maximum"""
+    return max(a, b)
