@@ -1,5 +1,5 @@
-"""maximum"""
+"""для расчета maximum"""
 
 def maximum (a, b):
-    """function for maximum"""
+    """определяет function for maximum"""
     return a if a > b else b
